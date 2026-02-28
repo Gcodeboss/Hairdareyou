@@ -70,4 +70,4 @@ src/
 
 ---
 
-© 2024 Hair Dare You. All rights reserved.
+© 2025 Hair Dare You. All rights reserved.
